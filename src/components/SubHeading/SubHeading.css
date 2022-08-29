@@ -1,0 +1,12 @@
+.app__subheading-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+    margin: auto;
+}
+
+.app__subheading-title img{
+    max-width: 100%;
+}
